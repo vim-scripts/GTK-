@@ -1,6 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=570
+This script has been renamed to GTK+.
 
-GTK+-2.2 syntax file. This contains xlib.vim, glib.vim, 
-pango.vim, gdk.vim and gtk.vim. All deprecated methods are
-not highlighted. 
-
+http://github.com/vim-scripts/GTK
